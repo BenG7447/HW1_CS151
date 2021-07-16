@@ -1,0 +1,20 @@
+Dentist
+8/3/21 16:15 17:00
+Doctor
+7/27/21 16:15 17:00
+Job Interview
+7/28/21 9:30 11:30
+Interview at BigCorp
+9/28/21 9:30 11:30
+Trip
+7/4/21 8:30 20:30
+Course Committee Meeting
+F 18:30 20:30 1/27/21 5/13/21
+Workshop
+MW 14:00 15:00 6/1/21 8/7/21
+Lab
+TR 12:00 15:00 1/28/21 5/13/21
+Summer Class Lecture
+MW 11:45 13:15 6/1/21 8/7/21
+CS151 Lecture
+TR 10:30 11:45 1/28/21 5/13/21
